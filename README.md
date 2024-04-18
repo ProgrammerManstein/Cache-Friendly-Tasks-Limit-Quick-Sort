@@ -21,5 +21,5 @@ usage:
 ```
 with t threads for the array size n sort.
 
-## comparison
+## Comparison
 The files in the comparison are using one single strategy that is used by task_limit_qst.cpp. The pdf report explains the different strategies. You can use them to compare with og.cpp and task_limit_qst.cpp to see the improvement.
