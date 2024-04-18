@@ -1,4 +1,9 @@
 # Cache-Friendly-Tasks-Limit-Quick-Sort
+Sorting is a common and fundamental problem in the field of computer science.
+Improving the speed of sorting is a valuable pursuit. In this program, we propose a
+way to paralle quicksort using OpenMP. The main method we use to improve the
+performance is setting cut-offs. Our work reveals the importance of cache efficiency
+and different strategies scheduling stra regarding the performance of parallel program.
 ## Files
 og.cpp is the naive version that only use task for recursive.
 
